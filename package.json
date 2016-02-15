@@ -1,0 +1,20 @@
+{
+  "name": "iwwa-icons",
+  "version": "1.0.0",
+  "description": "innowatio font icons",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innowatio/iwwa-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "font",
+    "innowatio"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/innowatio/iwwa-icons/issues"
+  },
+  "homepage": "https://github.com/innowatio/iwwa-icons#readme"
+}
