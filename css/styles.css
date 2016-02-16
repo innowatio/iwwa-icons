@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "iwwa";
-  src:url("../fonts/iwwa.eot");
-  src:url("../fonts/iwwa.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/iwwa.woff") format("woff"),
-    url("../fonts/iwwa.ttf") format("truetype"),
-    url("../fonts/iwwa.svg#iwwa") format("svg");
+  src:url("fonts/iwwa.eot");
+  src:url("fonts/iwwa.eot?#iefix") format("embedded-opentype"),
+    url("fonts/iwwa.woff") format("woff"),
+    url("fonts/iwwa.ttf") format("truetype"),
+    url("fonts/iwwa.svg#iwwa") format("svg");
   font-weight: normal;
   font-style: normal;
 
@@ -166,4 +166,7 @@
 }
 .icon-iw-xls:before {
   content: "\51";
+}
+.icon-arrow-down:before {
+  content: "\52";
 }
