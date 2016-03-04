@@ -167,6 +167,33 @@
 .icon-iw-xls:before {
   content: "\51";
 }
-.icon-arrow-down:before {
+.icon-iw-arrow-down:before {
   content: "\52";
+}
+.icon-iw-middling:before {
+  content: "\53";
+}
+.icon-iw-monitoring:before {
+  content: "\54";
+}
+.icon-iw-tag:before {
+  content: "\55";
+}
+.icon-iw-add:before {
+  content: "\56";
+}
+.icon-iw-assign:before {
+  content: "\57";
+}
+.icon-iw-bad:before {
+  content: "\58";
+}
+.icon-iw-delete:before {
+  content: "\59";
+}
+.icon-iw-duplicate:before {
+  content: "\5a";
+}
+.icon-iw-good:before {
+  content: "\30";
 }
