@@ -197,3 +197,24 @@
 .icon-iw-good:before {
   content: "\30";
 }
+.icon-iw-minus:before {
+  content: "\31";
+}
+.icon-iw-angle-left:before {
+  content: "\32";
+}
+.icon-iw-drag-drop:before {
+  content: "\33";
+}
+.icon-iw-divide:before {
+  content: "\34";
+}
+.icon-iw-star-o:before {
+  content: "\35";
+}
+.icon-iw-star:before {
+  content: "\36";
+}
+.icon-iw-option:before {
+  content: "\37";
+}
