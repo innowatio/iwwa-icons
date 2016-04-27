@@ -218,3 +218,30 @@
 .icon-iw-option:before {
   content: "\37";
 }
+.icon-iw-option-horizontal:before {
+  content: "\39";
+}
+.icon-iw-merge:before {
+  content: "\21";
+}
+.icon-iw-information:before {
+  content: "\22";
+}
+.icon-iw-arrow-up:before {
+  content: "\23";
+}
+.icon-iw-chart-style1:before {
+  content: "\24";
+}
+.icon-iw-chart-style2:before {
+  content: "\25";
+}
+.icon-iw-chart-style3:before {
+  content: "\26";
+}
+.icon-iw-chart-style4:before {
+  content: "\27";
+}
+.icon-iw-list-favourite:before {
+  content: "\28";
+}
