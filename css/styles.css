@@ -245,21 +245,6 @@
 .icon-iw-close-braket:before {
   content: "\2b";
 }
-.icon-iw-1d:before {
-  content: "\2c";
-}
-.icon-iw-1m:before {
-  content: "\2d";
-}
-.icon-iw-1w:before {
-  content: "\2e";
-}
-.icon-iw-1y:before {
-  content: "\2f";
-}
-.icon-iw-15m:before {
-  content: "\3a";
-}
 .icon-iw-add:before {
   content: "\3b";
 }
@@ -292,4 +277,34 @@
 }
 .icon-iw-delete:before {
   content: "\5d";
+}
+.icon-iw-remove-15m:before {
+  content: "\65";
+}
+.icon-iw-add-15m:before {
+  content: "\2c";
+}
+.icon-iw-remove-1y:before {
+  content: "\2d";
+}
+.icon-iw-add-1y:before {
+  content: "\2e";
+}
+.icon-iw-remove-1w:before {
+  content: "\2f";
+}
+.icon-iw-add-1d:before {
+  content: "\3a";
+}
+.icon-iw-remove-1d:before {
+  content: "\5e";
+}
+.icon-iw-add-1m:before {
+  content: "\5f";
+}
+.icon-iw-remove-1m:before {
+  content: "\60";
+}
+.icon-iw-add-1w:before {
+  content: "\7b";
 }
