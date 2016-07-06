@@ -194,9 +194,6 @@
 .icon-iw-option:before {
   content: "\37";
 }
-.icon-iw-triangle-up:before {
-  content: "\38";
-}
 .icon-iw-option-horizontal:before {
   content: "\39";
 }
@@ -238,9 +235,6 @@
 }
 .icon-iw-divide:before {
   content: "\29";
-}
-.icon-iw-delta:before {
-  content: "\2a";
 }
 .icon-iw-close-braket:before {
   content: "\2b";
@@ -307,4 +301,7 @@
 }
 .icon-iw-add-1w:before {
   content: "\7b";
+}
+.icon-iw-delta:before {
+  content: "\38";
 }
