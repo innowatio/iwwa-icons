@@ -305,3 +305,9 @@
 .icon-iw-delta:before {
   content: "\38";
 }
+.icon-iw-user-functions:before {
+  content: "\2a";
+}
+.icon-iw-clone:before {
+  content: "\7c";
+}
