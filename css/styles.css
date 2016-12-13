@@ -311,3 +311,30 @@
 .icon-iw-clone:before {
   content: "\7c";
 }
+.icon-iw-remote-control-o:before {
+  content: "\7d";
+}
+.icon-iw-middle-o:before {
+  content: "\7e";
+}
+.icon-iw-expand:before {
+  content: "\5c";
+}
+.icon-iw-good-o:before {
+  content: "\e000";
+}
+.icon-iw-connection-o:before {
+  content: "\e001";
+}
+.icon-iw-alarm-o:before {
+  content: "\e002";
+}
+.icon-iw-bad-o:before {
+  content: "\e003";
+}
+.icon-iw-consumption-o:before {
+  content: "\e004";
+}
+.icon-iw-sort-by:before {
+  content: "\e005";
+}
