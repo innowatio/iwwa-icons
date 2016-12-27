@@ -338,3 +338,15 @@
 .icon-iw-sort-by:before {
   content: "\e005";
 }
+.icon-iw-text-desc:before {
+  content: "\e006";
+}
+.icon-iw-text-asc:before {
+  content: "\e007";
+}
+.icon-iw-number-desc:before {
+  content: "\e008";
+}
+.icon-iw-number-asc:before {
+  content: "\e009";
+}
