@@ -350,3 +350,6 @@
 .icon-iw-number-asc:before {
   content: "\e009";
 }
+.icon-iw-trash:before {
+  content: "\e00a";
+}
